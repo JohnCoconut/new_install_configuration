@@ -1,0 +1,1 @@
+>=media-libs/opencv-3.4.1-r7 cpu_flags_x86_popcnt cpu_flags_x86_ssse3 ffmpeg gdal gphoto2 lapack opencl openexr  threads v4l vaapi webp xine
