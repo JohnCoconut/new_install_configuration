@@ -1,0 +1,8 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+192.168.0.3 server1.example.com server1
+
+192.168.0.10 freebsd freebsd.example.com
+
+192.168.0.217 bionic bionic.example.com

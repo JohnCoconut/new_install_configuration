@@ -1,0 +1,4 @@
+dev-python/numpy lapack
+dev-python/pandas full-support
+dev-cpp/eigen c++11
+dev-qt/qtmultimedia widgets

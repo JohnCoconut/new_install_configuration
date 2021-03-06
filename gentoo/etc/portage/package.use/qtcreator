@@ -1,0 +1,17 @@
+# required by dev-qt/qt-creator-4.8.2::gentoo[help,webengine]
+# required by qt-creator (argument)
+>=dev-qt/qtwebengine-5.14.1 widgets designer jumbo-build
+# required by dev-qt/qtwebengine-5.14.1::gentoo
+# required by dev-qt/qt-creator-4.8.2::gentoo[help,webengine]
+# required by qt-creator (argument)
+>=dev-qt/qtwebchannel-5.14.1 qml
+# required by dev-qt/qtwebengine-5.14.1::gentoo
+# required by dev-qt/qt-creator-4.8.2::gentoo[help,webengine]
+# required by qt-creator (argument)
+>=sys-libs/zlib-1.2.11-r2 minizip static-libs
+
+>=dev-qt/qt-creator-4.8.2 autotools clearcase cmake cppcheck git glsl lsp valgrind
+>=dev-qt/qtsql-5.14.1 postgress
+>=dev-qt/designer-5.14.1 declarative webkit
+>=dev-qt/qtwebkit-5.212.0_pre20200309-r1 qml webp
+

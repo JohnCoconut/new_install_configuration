@@ -1,0 +1,2 @@
+x11-wm/awesome -lua_single_target_lua5-1 lua_single_target_luajit
+dev-lua/lgi lua_targets_luajit -lua_targets_lua5-1
