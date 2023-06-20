@@ -1,2 +1,0 @@
->=sys-devel/clang-9.0.1 -llvm_targets_NVPTX
->=sys-devel/llvm-9.0.1 -llvm_targets_NVPTX gold

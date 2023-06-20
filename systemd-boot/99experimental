@@ -1,0 +1,7 @@
+Package: src:glibc
+Pin: release a=experimental
+Pin-Priority: 800
+
+Package: src:linux
+Pin: version *
+Pin-Priority: -1

@@ -1,0 +1,34 @@
+{
+    "audio": "pulseaudio",
+    "bootloader": "systemd-bootctl",
+    "filesystem": "xfs",
+    "harddrive": {
+        "path": "/dev/vda"
+    },
+    "hostname": "apotato",
+    "kernels": [
+        "linux"
+    ],
+    "keyboard-language": "us",
+    "mirror-region": {
+        "Worldwide": {
+            "https://mirror.rackspace.com/archlinux/$repo/os/$arch": true
+        }
+    },
+    "nic": {
+        "NetworkManager": true
+    },
+    "packages": ["vim", "alacritty"],
+    "profile": null,
+    "superusers": {
+        "<username>": {
+            "!password": "<password>"
+        }
+    },
+    "timezone": "UTC",
+    "users": {
+        "<username>": {
+            "!password": "<password>"
+        }
+    }
+}

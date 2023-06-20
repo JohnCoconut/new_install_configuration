@@ -1,0 +1,12 @@
+-rwxr-xr-x 1 root root 2.1M Mar  3 14:07 /bin/fish
+-rwxr-xr-x 1 root root 2.1M Mar  3 14:07 /bin/fish_indent
+-rwxr-xr-x 1 root root 2.1M Mar  3 14:07 /bin/fish_key_reader
+-rw-r--r-- 1 root root  39K Mar  3 14:06 /usr/share/doc/fish-3.2.0/cmds/bind.html
+-rw-r--r-- 1 root root 1.6K Mar  1 20:47 /usr/share/fish/completions/bind.fish
+-rw-r--r-- 1 root root  463 Mar  1 20:47 /usr/share/fish/completions/combine.fish
+-rw-r--r-- 1 root root 4.4K Mar  1 20:47 /usr/share/fish/functions/fish_default_key_bindings.fish
+-rw-r--r-- 1 root root  692 Mar  1 20:47 /usr/share/fish/functions/fish_hybrid_key_bindings.fish
+-rw-r--r-- 1 root root 9.0K Mar  1 20:47 /usr/share/fish/functions/__fish_shared_key_bindings.fish
+-rw-r--r-- 1 root root  16K Mar  1 20:47 /usr/share/fish/functions/fish_vi_key_bindings.fish
+-rw-r--r-- 1 root root  16K Mar  3 14:07 /usr/share/fish/man/man1/bind.1
+-rw-r--r-- 1 root root 1.1K Mar  1 20:47 /usr/share/fish/tools/web_config/partials/bindings.html

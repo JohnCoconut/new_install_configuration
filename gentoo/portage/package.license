@@ -1,4 +1,0 @@
-# required by sys-kernel/genkernel-4.0.5::gentoo[firmware]
-# required by sys-kernel/genkernel (argument)
-=sys-kernel/linux-firmware-20200316 linux-fw-redistributable no-source-code
-www-client/vivaldi Vivaldi

@@ -1,3 +1,0 @@
->=x11-misc/i3status-2.12 -pulseaudio
-
->=media-sound/pulseaudio-13.0 -asyncns -ipv6 -ssl -webrtc-aec

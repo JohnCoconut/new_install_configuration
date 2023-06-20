@@ -1,0 +1,12 @@
+-rwxr-xr-x 1 root root  51K May  6 14:59 /usr/bin/gtk4-builder-tool
+-rwxr-xr-x 1 root root 8.7M May  6 14:59 /usr/bin/gtk4-encode-symbolic-svg
+-rwxr-xr-x 1 root root  18K May  6 14:59 /usr/bin/gtk4-launch
+-rwxr-xr-x 1 root root  14K May  6 14:59 /usr/bin/gtk4-query-settings
+-rwxr-xr-x 1 root root  39K May  6 14:59 /usr/bin/gtk4-update-icon-cache
+-rw-r--r-- 1 root root 1.1K May  4 09:43 /usr/include/gtk-4.0/gtk/gtkbinlayout.h
+-rwxr-xr-x 1 root root  51K May 10 03:21 /usr/bin/gtk4-builder-tool
+-rwxr-xr-x 1 root root 8.5M May 10 03:21 /usr/bin/gtk4-encode-symbolic-svg
+-rwxr-xr-x 1 root root  18K May 10 03:21 /usr/bin/gtk4-launch
+-rwxr-xr-x 1 root root  14K May 10 03:21 /usr/bin/gtk4-query-settings
+-rwxr-xr-x 1 root root  39K May 10 03:21 /usr/bin/gtk4-update-icon-cache
+-rw-r--r-- 1 root root 1.1K May  4 09:43 /usr/include/gtk-4.0/gtk/gtkbinlayout.h

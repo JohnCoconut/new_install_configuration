@@ -1,4 +1,0 @@
-app-editors/neovim  nvimpager tui
-# required by app-shells/fish-3.0.2::gentoo
-# required by app-shells/fish (argument)
->=dev-libs/libpcre2-10.33-r1 pcre32

@@ -1,0 +1,39 @@
+-rwxrwxr-x 1 root root  22M Feb 25 21:59 /usr/bin/ocaml
+lrwxrwxrwx 1 root root   10 Feb 25 21:59 /usr/bin/ocamlc -> ocamlc.opt
+-rwxrwxr-x 1 root root  21M Feb 25 21:59 /usr/bin/ocamlc.byte
+-rwxrwxr-x 1 root root  11M Feb 25 21:59 /usr/bin/ocamlcmt
+-rwxrwxr-x 1 root root  11M Feb 25 21:59 /usr/bin/ocamlc.opt
+lrwxrwxrwx 1 root root   11 Feb 25 21:59 /usr/bin/ocamlcp -> ocamlcp.opt
+-rwxrwxr-x 1 root root 4.1M Feb 25 21:59 /usr/bin/ocamlcp.byte
+-rwxrwxr-x 1 root root 2.6M Feb 25 21:59 /usr/bin/ocamlcp.opt
+-rwxrwxr-x 1 root root  26M Feb 25 21:59 /usr/bin/ocamldebug
+lrwxrwxrwx 1 root root   12 Feb 25 21:59 /usr/bin/ocamldep -> ocamldep.opt
+-rwxrwxr-x 1 root root  20M Feb 25 21:59 /usr/bin/ocamldep.byte
+-rwxrwxr-x 1 root root  11M Feb 25 21:59 /usr/bin/ocamldep.opt
+-rwxrwxr-x 1 root root 3.7M Feb 25 21:59 /usr/bin/ocamldoc
+-rwxrwxr-x 1 root root  17M Feb 25 21:59 /usr/bin/ocamldoc.opt
+lrwxrwxrwx 1 root root   12 Feb 25 21:59 /usr/bin/ocamllex -> ocamllex.opt
+-rwxrwxr-x 1 root root 333K Feb 25 21:59 /usr/bin/ocamllex.byte
+-rwxrwxr-x 1 root root 1.7M Feb 25 21:59 /usr/bin/ocamllex.opt
+lrwxrwxrwx 1 root root   14 Feb 25 21:59 /usr/bin/ocamlmklib -> ocamlmklib.opt
+-rwxrwxr-x 1 root root 2.7M Feb 25 21:59 /usr/bin/ocamlmklib.byte
+-rwxrwxr-x 1 root root 1.7M Feb 25 21:59 /usr/bin/ocamlmklib.opt
+lrwxrwxrwx 1 root root   14 Feb 25 21:59 /usr/bin/ocamlmktop -> ocamlmktop.opt
+-rwxrwxr-x 1 root root 3.0M Feb 25 21:59 /usr/bin/ocamlmktop.byte
+-rwxrwxr-x 1 root root 1.9M Feb 25 21:59 /usr/bin/ocamlmktop.opt
+lrwxrwxrwx 1 root root   16 Feb 25 21:59 /usr/bin/ocamlobjinfo -> ocamlobjinfo.opt
+-rwxrwxr-x 1 root root  22M Feb 25 21:59 /usr/bin/ocamlobjinfo.byte
+-rwxrwxr-x 1 root root  12M Feb 25 21:59 /usr/bin/ocamlobjinfo.opt
+lrwxrwxrwx 1 root root   12 Feb 25 21:59 /usr/bin/ocamlopt -> ocamlopt.opt
+-rwxrwxr-x 1 root root  28M Feb 25 21:59 /usr/bin/ocamlopt.byte
+-rwxrwxr-x 1 root root  15M Feb 25 21:59 /usr/bin/ocamlopt.opt
+lrwxrwxrwx 1 root root   13 Feb 25 21:59 /usr/bin/ocamloptp -> ocamloptp.opt
+-rwxrwxr-x 1 root root 4.1M Feb 25 21:59 /usr/bin/ocamloptp.byte
+-rwxrwxr-x 1 root root 2.6M Feb 25 21:59 /usr/bin/ocamloptp.opt
+lrwxrwxrwx 1 root root   13 Feb 25 21:59 /usr/bin/ocamlprof -> ocamlprof.opt
+-rwxrwxr-x 1 root root 8.9M Feb 25 21:59 /usr/bin/ocamlprof.byte
+-rwxrwxr-x 1 root root 3.7M Feb 25 21:59 /usr/bin/ocamlprof.opt
+-rwxrwxr-x 1 root root 320K Feb 25 21:59 /usr/bin/ocamlrun
+-rwxrwxr-x 1 root root 355K Feb 25 21:59 /usr/bin/ocamlrund
+-rwxrwxr-x 1 root root 324K Feb 25 21:59 /usr/bin/ocamlruni
+-rwxrwxr-x 1 root root  87K Feb 25 21:59 /usr/bin/ocamlyacc
